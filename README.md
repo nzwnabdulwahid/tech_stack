@@ -1,4 +1,4 @@
-# [Exercise] Basic Firebase Authentication Training
+# [Exercise] Basic Redux Training
 
 Contain a simple React-Native apps by following : [The Complete React Native & Redux Course](https://www.udemy.com/the-complete-react-native-and-redux-course) from Section 11 and Section 13.
 
